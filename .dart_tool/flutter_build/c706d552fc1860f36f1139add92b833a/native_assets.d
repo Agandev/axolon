@@ -1,0 +1,1 @@
+ E:\\axolon\\.dart_tool\\flutter_build\\c706d552fc1860f36f1139add92b833a\\native_assets.yaml: 
